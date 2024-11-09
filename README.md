@@ -9,8 +9,8 @@ Department : Electronics and Communication Department
 
 # Languages Used
 ```
-HTML
-CSS 
+HTML5
+CSS3 
 JAVASRCIPTS
 ```
 
